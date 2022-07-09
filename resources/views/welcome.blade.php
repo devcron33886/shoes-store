@@ -44,7 +44,7 @@
     <section aria-labelledby="social-impact-heading" class="max-w-7xl mx-auto pt-4 px-4 sm:pt-32 sm:px-6 lg:px-8">
         <div class="relative rounded-lg overflow-hidden">
             <div class="absolute inset-0">
-                <img src="{{ asset('images/Sliders/g14.jpg') }}" alt=""
+                <img src="{{ asset('images/1.jpg') }}" alt=""
                      class="w-full h-full object-center object-cover">
             </div>
             <div class="relative bg-gray-900 bg-opacity-75 py-8 px-6 sm:py-40 sm:px-12 lg:px-16">
@@ -80,9 +80,7 @@
                 </a>
             @endforeach
         </div>
-        <div class="mt-4">
-            <a href="{{ route('shop') }}" class="text-indigo-800 font-bold">See all products</a>
-        </div>
+        
 
     </section>
 
