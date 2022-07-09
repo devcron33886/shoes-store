@@ -1,4 +1,4 @@
-<div>
+
     <header class="relative z-10">
         <nav aria-label="Top">
             <div class="bg-gray-900">
@@ -7,7 +7,7 @@
                         class="-ml-2 group relative bg-gray-900 border-transparent rounded-md focus-within:ring-2 focus-within:ring-white">
                         <div class="flex items-center space-x-6">
                             <p class="text-sm font-bold text-white hover:text-gray-100">Tel: +250 789 814 205</p>
-                            <p class="text-sm font-bold text-white hover:text-gray-100">orders@kjk.com</p>
+                           
                         </div>
                     </div>
 
@@ -92,9 +92,9 @@
 
                     </div>
                 </div>
-                <div class="flex items-center flex-grow">
+                <div class="flex items-center justify-between">
                     <input type="text" wire:model.debounce.500ms="searchQuery" placeholder="Search Product"
-                        class="flex-grow text-sm h-10 rounded-md shadow-sm border-gray-300 focus:border-indigo-300 focus:ring-indigo-200 focus:ring-opacity-50">
+                        class="text-sm h-10 rounded-md shadow-sm border-gray-300 focus:border-indigo-300 focus:ring-indigo-200 focus:ring-opacity-50">
                 </div>
 
                 <!-- Settings Dropdown -->
