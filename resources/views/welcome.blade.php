@@ -62,7 +62,7 @@
         </div>
     </section>
     <!-- Featured section -->
-    <section aria-labelledby="category-heading" class="pt-24 sm:pt-32 xl:max-w-7xl xl:mx-auto xl:px-8">
+    <section aria-labelledby="category-heading" class="py-12 sm:pt-32 xl:max-w-7xl xl:mx-auto xl:px-8">
         <div class="px-4 sm:px-6 sm:flex sm:items-center sm:justify-between lg:px-8 xl:px-0">
             <h2 id="category-heading" class="text-2xl font-extrabold tracking-tight text-gray-900">Latest Shoes
             </h2>
